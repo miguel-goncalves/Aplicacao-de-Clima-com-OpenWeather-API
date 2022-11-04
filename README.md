@@ -5,3 +5,7 @@ Tecnologias utilizadas:
 - HTML
 - CSS
 - JS
+
+API Utilizada 
+
+- OpenWeather API
